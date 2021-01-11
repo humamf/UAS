@@ -2,7 +2,7 @@
 # PACKAGE & MODULE
 **UAS ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
 
-![1](https://user-images.githubusercontent.com/72872663/104199922-a2336880-545a-11eb-9350-8a9c3e74cb64.PNG)
+![1](https://user-images.githubusercontent.com/72872663/104201413-51247400-545c-11eb-81e6-ffacb86dcb71.PNG)
  
 * ``daftar_nilai.py`` berisi modul untuk  :
     * tambah_data
